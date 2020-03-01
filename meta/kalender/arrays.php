@@ -1,0 +1,31 @@
+<?php
+$daynames = array("Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag");
+$monthnames = array(0=>"Dezember",
+                1=>"Januar",
+                2=>"Februar",
+                3=>"M&auml;rz",
+                4=>"April",
+                5=>"Mai",
+                6=>"Juni",
+                7=>"Juli",
+                8=>"August",
+                9=>"September",
+                10=>"Oktober",
+                11=>"November",
+                12=>"Dezember",
+                13=>"Januar");
+                $monthnamesenglish = array(0=>"December",
+                                1=>"January",
+                                2=>"February",
+                                3=>"March",
+                                4=>"April",
+                                5=>"May",
+                                6=>"June",
+                                7=>"July",
+                                8=>"August",
+                                9=>"September",
+                                10=>"October",
+                                11=>"November",
+                                12=>"December",
+                                13=>"January");
+?>
